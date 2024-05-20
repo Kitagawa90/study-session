@@ -19,7 +19,7 @@ title: "HTML勉強会"
 
 ## 使用する本
 
-![本](./img/book.jpg)
+![本](/img/book.jpg)
 
 1冊ですべて身につくHTML & CSSとWebデザイン入門講座  
 
